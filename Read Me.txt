@@ -1,0 +1,3 @@
+To evolve an image run: evolve(number_of_vertices,number_of_polygons,number_of_generations)
+
+The target image(changeable) is set to mona_lida_crop.jpg in evolve.m
